@@ -39,6 +39,7 @@ Además, se crea una vista sobre la tabla de `ventas_agr` para analizar los pedi
 ### Análisis de Canales y Mejores Clientes
 - Los canales con mayor facturación son: Web, teléfono y email. Siendo el canal Web el más destacado con diferencia. 
 Evolución mensual de la facturación por canal en los últimos 12 meses:
+
 ![evolucion_facturacion_canal](evolucion_facturacion_canal.png)
 
 ### Mejores Clientes por Facturación
