@@ -27,6 +27,7 @@ El análisis se realizó a través de varias etapas, que incluyen la revisión y
 Se relaciona la tabla creada `ventas_agr` con el resto de las tablas.
 
 ![diagrama_ER](diagrama_ER.png)
+
 Además, se crea una vista sobre la tabla de `ventas_agr` para analizar los pedidos, considerando un mismo pedido cuando se haya hecho en la misma fecha, por la misma tienda y por el mismo canal.
 
 ### Análisis de Pedidos
