@@ -1,4 +1,4 @@
--- Este script SQL forma parte del proyecto [nombre del proyecto].
+
 -- El objetivo es realizar análisis de datos sobre las ventas de la empresa y generar insights útiles para la empresa.
 
 -- Activar la base de datos como la base de datos por defecto para trabajar.
