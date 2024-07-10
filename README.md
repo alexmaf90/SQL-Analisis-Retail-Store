@@ -48,7 +48,7 @@ Evolución mensual de la facturación por canal en los últimos 12 meses:
 
 ### Evolución de la Facturación por País por Trimestre
 
-![facturacion_pais_trimestre](facturacion_pais_trimestre.png)
+![facturacion_pais_trimestre.png](facturacion_pais_trimestre.png)
 
 - Facturación por trimestre en 2017 filtrado por país España.
 
