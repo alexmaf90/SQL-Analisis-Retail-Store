@@ -53,9 +53,12 @@ Evolución mensual de la facturación por canal en los últimos 12 meses:
 - Evolución de la Facturación por trimestre en 2017 filtrado comparando España con los paises en los que la facturación fue mayor. 
 
 ## Análisis del Margen
-- Identificación de los productos con mayor margen por línea de producto. 
+- Identificación de los 20 productos con mayor margen por línea de producto, calculando el margen como ((precio - coste) / coste * 100). 
+  
+  ![tabla_margen_linea_producto](tabla_margen_linea_producto.png)
+
 - Identificación de los productos que tienen un descuento superior al 90% de los descuentos. Son los productos que tienen los descuentos más altos, aquellos cuyo descuento es en el 10% superior de todos los descuentos aplicados.
-- 
+  
 ### Identificación de productos con mayores descuentos
 
 ![productos_mayores_descuentos](productos_mayores_descuentos.png)
