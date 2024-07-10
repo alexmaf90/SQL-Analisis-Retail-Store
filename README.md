@@ -50,7 +50,7 @@ Evolución mensual de la facturación por canal en los últimos 12 meses:
 
 ![facturacion_pais_trimestre.png](facturacion_pais_trimestre.png)
 
-- Facturación por trimestre en 2017 filtrado por país España.
+- Evolución de la Facturación por trimestre en 2017 filtrado comparando España con los paises en los que la facturación fue mayor. 
 
 ## Análisis del Margen
 - Identificación de los productos con mayor margen por línea de producto. 
