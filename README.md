@@ -3,6 +3,8 @@
 ## Descripción
 Este proyecto consiste en el análisis de datos de una tienda distribuidora de equipamiento de montaña y aventura, que incluye ropa y accesorios de aventura. El análisis se enfoca en los principales ejes del negocio: ventas, clientes (tiendas), productos y canales.
 
+El código utilizado para resolver las consultas dle proyecto se puede consultar en el archivo "Caso.sql". 
+
 ## Objetivos del Proyecto
 - Identificar productos de alto margen y aquellos que están en tendencia.
 - Optimizar la gestión de clientes mediante segmentación y análisis de potencial de desarrollo.
